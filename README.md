@@ -1,5 +1,5 @@
 # xy-inc
-
+Para executar a aplicação é somente necessário clonar o repositório e importar o projeto
 Para testar a aplicação é necessário somente enviar a solicitação via REST.
 
 ------------------------------------------------
